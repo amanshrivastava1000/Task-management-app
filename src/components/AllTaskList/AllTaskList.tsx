@@ -121,6 +121,7 @@ const AllTaskList = () => {
           <Button
             size="sm"
             bg="blue.500"
+            mb={3}
             fontSize="14px"
             borderRadius="0"
             w={containerDirection === "column" ? "100%" : "20%"}
